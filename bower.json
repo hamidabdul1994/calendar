@@ -1,0 +1,21 @@
+{
+  "name": "calendar",
+  "authors": [
+    "Hamid Raza <hamidabdul1994@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "moment": "^2.17.1"
+  }
+}
